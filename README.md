@@ -14,7 +14,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 4. 1. Predict whether the employee will leave or stay using the predict() function and display the result.
 
 ## Program:
-```
+```py
 
 import numpy as np
 from sklearn.tree import DecisionTreeClassifier
